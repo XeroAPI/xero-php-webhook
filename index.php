@@ -1,6 +1,6 @@
 <?php
 // Based on Xero developer document from
-/ /https://developer.xero.com/documentation/webhooks/overview
+// https://developer.xero.com/documentation/webhooks/overview
 // Returning data in the response body to Xero will cause the webhook
 // verification to fail, to get around this for testing store all the 
 //information we needed into a text file to helps us debug any issues.
